@@ -1,5 +1,5 @@
 ## Kaggle
-    # AIA image classification by CNN
+    \big AIA image classification by CNN
         ! wget <link> \\ команда для скачивания
         ! unzip <local link> \\
         точность на привате выше 0,9
